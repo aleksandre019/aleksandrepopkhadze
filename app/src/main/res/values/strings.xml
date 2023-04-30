@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_your_email_here">enter your email here</string>
+    <string name="midtermbtueasy">MidtermBtuEasy</string>
+    <string name="okay">okay</string>
+    <string name="next">next</string>
+    <string name="user14523_gmail_com">user14523@gmail.com</string>
+    <string name="welcome_back">Welcome back</string>
+</resources>
